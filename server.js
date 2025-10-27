@@ -8,7 +8,7 @@ dotenv.config();
 const app = express();
 
 // ✅ Middleware
-app.use(cors());
+app.use(cors("https://https://astounding-cendol-50ede6.netlify.app"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
