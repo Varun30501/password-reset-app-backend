@@ -28,6 +28,16 @@ It provides secure user authentication, password reset via email verification, a
 
 ---
 
+## mailbox to check emails for password reset - testmail30501@getairmail.com
+
+## To access the inbox
+## Step 1: Go to inboxes.com
+## Step 2: Click on get new inbox
+## Step 3: Then enter testmail30501 as username and select the getairmail.com for mailbox domain.
+## Step 4: After doing till step 3 you will see the inbox which is used for this Password Reset testing and can send reset mails for your accounts which you have registered through the app.
+
+---
+
 ## 📁 Folder Structure
 
 password-reset-app-backend/
