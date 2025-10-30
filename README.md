@@ -36,6 +36,8 @@ It provides secure user authentication, password reset via email verification, a
 ## Step 3: Then enter testmail30501 as username and select the getairmail.com for mailbox domain.
 ## Step 4: After doing till step 3 you will see the inbox which is used for this Password Reset testing and can send reset mails for your accounts which you have registered through the app.
 
+### IMPORTANT - Due to inactivity the server will take time to load up and then only will the action take place. It will take roughly 30 seconds maximum.
+
 ---
 
 ## 📁 Folder Structure
